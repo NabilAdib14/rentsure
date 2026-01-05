@@ -1,2 +1,2 @@
 # rentsure
-A Multi-Tenant SaaS Platform for Rental Agreement Management
+A Multi-Tenant SaaS Platform for Rental Agreement Management.
